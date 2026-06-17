@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+
+# Editor
+## Settings
+.idea/
+.vscode/
+.cursor/
+.obsidian/workspace.json
+## Backup
+*.swp
+
+# AI Coding
+.claude/settings.local.json
+CLAUDE.local.md
+.agents/settings.local.json
+AGENTS.local.md
+
+# Compile
+## Python
+__pycache__/
+
+# Test & Debug & Run
+
+# Other
