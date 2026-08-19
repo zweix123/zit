@@ -21,5 +21,7 @@ AGENTS.local.md
 __pycache__/
 
 # Test & Debug & Run
+## Go
+.statsd
 
 # Other
